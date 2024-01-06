@@ -1,3 +1,4 @@
+```json
 {
   "name": "Tito",
   "age": 13,
@@ -7,6 +8,6 @@
   "programmingLanguages": ["Javascript", "HTML", "Python", "CSS"],
   "editor": "VSCode",
   "socials": {
-    "Epic Games": "TheGamingProXx",
+    "Epic Games": "TheGamingProXx"
   }
 }
